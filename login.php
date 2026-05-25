@@ -133,7 +133,7 @@ $_SESSION['logueado'] = true;
 
         <label for="password">Contraseña</label>
         <input type="password" id="password" name="password"
-               placeholder="numcontrolTSO" required>
+               placeholder="numcontrolITO" required>
 
         <button type="submit" class="btn-login">INGRESAR AL SISTEMA</button>
     </form>
