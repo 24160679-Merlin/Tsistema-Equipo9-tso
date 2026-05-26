@@ -23,7 +23,7 @@ $_SESSION['logueado'] = true;
         $_SESSION['rol'] = 'auditor'; 
         header('Location: admin.php');
     } else {
-        $error = 'Usuario o contraseña incorrectos.';
+        $error = 'Usuario o contraseña incorrectosss.';
     }
 }
 ?>
