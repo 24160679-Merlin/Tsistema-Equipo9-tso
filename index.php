@@ -21,7 +21,7 @@
 
     <section id="mision" class="max-w-4xl mx-auto py-16 px-6 grid md:grid-cols-2 gap-10">
         <div class="bg-white p-8 rounded-lg shadow-lg border-l-8 border-orange-600">
-            <h3 class="text-2xl font-bold mb-4">Nuestra Misión</h3>
+            <h3 class="text-2xl font-bold mb-4">Nuestraaa Misión</h3>
             <p class="text-gray-700">Mantener un crecimiento sostenible para seguir siendo la empresa líder en manufactura de herramientas, superando las expectativas de calidad de nuestros clientes.</p>
         </div>
         <div class="bg-white p-8 rounded-lg shadow-lg border-l-8 border-black">
