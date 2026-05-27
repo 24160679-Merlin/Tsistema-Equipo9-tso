@@ -9,7 +9,7 @@
     <nav class="bg-orange-600 text-white p-4 flex justify-between items-center shadow-md">
         <h1 class="text-2xl font-black">TRUPER ®</h1>
         <div>
-            <a href="#mision" class="px-4">Misión/Visión</a>
+            <a href="#mision" class="px-4">Misioón/Visión</a>
             <a href="login.php" class="bg-black px-6 py-2 rounded-full font-bold hover:bg-gray-800">INGRESAR</a>
         </div>
     </nav>
