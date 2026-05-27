@@ -15,7 +15,7 @@
     </nav>
 
     <header class="bg-black text-white py-20 text-center">
-        <h2 class="text-5xl font-extrabold mb-4 uppercase">Mucho más que herramientas</h2>
+        <h2 class="text-5xl font-extrabold mb-4 uppercase">Truper Mucho más que herramientas</h2>
         <p class="text-orange-500 text-xl font-bold">Líderes en el mercado ferretero de México</p>
     </header>
 
