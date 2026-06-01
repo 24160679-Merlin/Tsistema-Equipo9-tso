@@ -119,7 +119,7 @@ $_SESSION['logueado'] = true;
 </head>
 <body>
 <div class="login-box">
-    <div class="login-logo">⚙️ TRUPER</div>
+    <div class="login-logo">⚙️ SISTEMA TRUPER</div>
     <div class="login-sub">Panel de Administración</div>
 
     <?php if ($error): ?>
